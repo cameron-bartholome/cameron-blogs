@@ -18,11 +18,13 @@ title: "Cameron’s Blog"
 
 </div>
 
----
+<h2>✍️ Latest Posts</h2>
 
-## ✍️ Latest Posts
-
-{%- for post in site.posts limit:5 -%}
-- [{{ post.title }}]({{ post.url | relative_url }})  
-  <small><em>{{ post.date | date: "%B %d, %Y" }}</em> — {{ post.excerpt | strip_html | truncate: 140 }}</small>
-{%- endfor -%}
+<ul>
+  {%- for post in site.posts limit:5 -%}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a><br />
+      <small><em>{{ post.date | date: "%B %d, %Y" }}</em> — {{ post.excerpt | strip_html | truncate: 140 }}</small>
+    </li>
+  {%- endfor -%}
+</ul>
