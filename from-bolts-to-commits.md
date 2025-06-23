@@ -23,8 +23,9 @@ Want to make a change? Better write it down somewhere. Maybe a change request, m
 
 When I started learning to code and stumbled onto GitHub, it felt like I’d unlocked a superpower.
 
-[bash]  
+```bash
 git commit -m "Fix: laser path bounced into hyperspace on shallow angles"
+```
 
 Boom. That’s it. You see exactly what changed, why it changed, and when. You can even link it to a task or issue.
 
