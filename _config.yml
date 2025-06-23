@@ -4,6 +4,8 @@ url: "https://github.com/cameron-bartholome"
 baseurl: "/cameron-blogs"  # name of your repo
 
 remote_theme: mmistakes/minimal-mistakes@4.24.0
+minimal_mistakes_skin: "dark"
+
 
 # Author profile for sidebar
 author:
