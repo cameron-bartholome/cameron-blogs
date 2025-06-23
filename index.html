@@ -1,8 +1,28 @@
 ---
 layout: home
 author_profile: true
+title: "Cameron’s Blog"
 ---
 
-Welcome to my blog. I write about design, code, and learning to connect both.
+<div class="feature__wrapper">
 
-<!-- This will automatically show latest posts -->
+  <div class="feature__item">
+    <div class="feature__title">🛠 Engineering Meets Git</div>
+    <p>Hi, I’m Cameron — a mechanical engineer learning to work smarter through coding, devlogs, and digital tools.</p>
+  </div>
+
+  <div class="feature__item">
+    <div class="feature__title">📚 Blog Highlights</div>
+    <p>Here are a few posts I’ve written on bridging design and programming workflows. More coming soon!</p>
+  </div>
+
+</div>
+
+---
+
+## ✍️ Latest Posts
+
+{%- for post in site.posts limit:5 -%}
+- [{{ post.title }}]({{ post.url | relative_url }})  
+  <small><em>{{ post.date | date: "%B %d, %Y" }}</em> — {{ post.excerpt | strip_html | truncate: 140 }}</small>
+{%- endfor -%}
