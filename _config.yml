@@ -1,0 +1,34 @@
+title: "Cameron’s Blog"
+description: "From mechanical design to Git commits"
+url: "https://cameronbartholomew.github.io"
+baseurl: "/cameron-blogs"  # name of your repo
+
+theme: minimal-mistakes-jekyll
+
+# Author profile for sidebar
+author:
+  name: Cameron Bartholome
+  bio: "Mechanical engineer turned coder."
+  avatar:  # optional, can remove if you don’t have one yet
+
+# Plugins GitHub Pages supports
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+# Enable posts
+collections:
+  posts:
+    output: true
+
+# Defaults for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+      read_time: true

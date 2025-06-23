@@ -1,7 +1,8 @@
-# 👋 Welcome to My Blog
+---
+layout: home
+author_profile: true
+---
 
-This is a simple place where I post my engineering and coding thoughts.
+Welcome to my blog. I write about design, code, and learning to connect both.
 
-## 📚 Posts
-
-- [From Bolts to Commits](./from-bolts-to-commits.md)
+<!-- This will automatically show latest posts -->
