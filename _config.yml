@@ -3,7 +3,7 @@ description: "From mechanical design to Git commits"
 url: "https://github.com/cameron-bartholome"
 baseurl: "/cameron-blogs"  # name of your repo
 
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 
 # Author profile for sidebar
 author:
