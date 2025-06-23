@@ -2,7 +2,7 @@
 
 So here’s the thing.
 
-I’ve spent a few years in mechanical engineering, designing parts, assemblies, brackets, and random bits that hold lasers or guide air or just exist to make something else not fall over. It’s CAD all day—Siemens NX, SolidWorks, Shapr3D, you name it. You get your model, your drawing, your exploded view, your tolerances... and then you try to remember what the heck you changed last week.
+I’ve spent a few years in mechanical engineering, designing parts, assemblies, brackets, and random bits that hold lasers or guide air or just exist to make something else not fall over. It’s CAD all day, Siemens NX, SolidWorks, Shapr3D, you name it. You get your model, your drawing, your exploded view, your tolerances... and then you try to remember what the heck you changed last week.
 
 Enter: chaos.  
 Or better said: Excel files, email chains, and your memory, which by Wednesday is basically a black hole.
