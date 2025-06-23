@@ -1,4 +1,10 @@
-# From Bolts to Commits: Why GitHub Feels Like Magic for a Mechanical Engineer
+---
+title: "From Bolts to Commits: Why GitHub Feels Like Magic for a Mechanical Engineer"
+layout: single
+date: 2025-06-22
+author: Cameron Bartholome
+categories: [engineering, github, workflow]
+---
 
 So here’s the thing.
 
