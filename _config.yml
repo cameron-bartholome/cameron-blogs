@@ -1,6 +1,6 @@
 title: "Cameron’s Blog"
 description: "From mechanical design to Git commits"
-url: "https://cameronbartholomew.github.io"
+url: "https://github.com/cameron-bartholome"
 baseurl: "/cameron-blogs"  # name of your repo
 
 theme: minimal-mistakes-jekyll
