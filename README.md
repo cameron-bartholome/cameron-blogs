@@ -1,2 +1,1 @@
-# cameron-blogs
-A personal collection of blog posts on engineering, code, and everything in between!
+<!-- Homepage is now handled by index.md -->
