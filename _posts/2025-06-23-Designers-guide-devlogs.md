@@ -1,7 +1,7 @@
 ---
 title: "A Designer’s Guide to Devlogs: Thinking in Features, Not Just Files"
 layout: single
-date: 2025-06-24
+date: 2025-06-23
 author: Cameron Bartholome
 categories: [engineering, devlogs]
 ---
