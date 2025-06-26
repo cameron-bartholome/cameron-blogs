@@ -1,7 +1,7 @@
 ---
 title: "Safety Maze Devlog #1 – The Great Beam Reflection Bug"
 layout: single
-date: 2025-06-25
+date: 2025-06-19
 author: Cameron Bartholome
 categories: [safety-maze, reflections, debugging]
 ---
